@@ -1,0 +1,3 @@
+# Zathura
+
+PDF viewer
