@@ -21,7 +21,7 @@ zinit light-mode for \
 autoload -U colors && colors       
 
 # 提示符
-PROMPT="%{$fg[red]%}%n%{$reset_color%}@%{$fg[blue]%}%m %{$fg[green]%}%1|%~ %{$reset_color%}%#>"        
+PROMPT="%{$fg[red]%}%n%{$reset_color%}@%{$fg[blue]%}%m %{$fg[green]%}%1|%~ %{$reset_color%}%#>" 
 ## 在行末显示上一命令的返回状态
 ## RPROMPT="[%{$fg_bold[yellow]%}%?%{$reset_color%}]"
 
